@@ -129,7 +129,7 @@ A simple blog platform with a Django REST Framework backend and a React frontend
 
 ### Blog Admin Home
 
-![Admin Home Screenshot](screenshots/admin-home.jpg)
+![Admin Home Screenshot](screenshots/admin-home.JPG)
 
 ### Blog Admin Post
 
