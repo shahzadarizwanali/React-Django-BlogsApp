@@ -112,8 +112,32 @@ A simple blog platform with a Django REST Framework backend and a React frontend
 
 ## Attribution
 
-- Made by Shahzada Rizwan
+- Made by Shahzada Rizwan Ali
 - [Bootstrap](https://getbootstrap.com/), [React](https://react.dev/), [Django REST Framework](https://www.django-rest-framework.org/)
+
+---
+
+## Screenshots
+
+### Blog Home page
+
+![Homepage Screenshot](src/screenshots/home.jpg)
+
+### Blog Contact Page
+
+![Post Detail Screenshot](src/screenshots/contact.jpg)
+
+### Blog Admin Home
+
+![Post Detail Screenshot](src/screenshots/admin-home.jpg)
+
+### Blog Admin Post
+
+![Post Detail Screenshot](src/screenshots/admin-post.jpg)
+
+### Blog Admin User
+
+![Post Detail Screenshot](src/screenshots/admin-user.jpg)
 
 ---
 
