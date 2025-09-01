@@ -121,23 +121,23 @@ A simple blog platform with a Django REST Framework backend and a React frontend
 
 ### Blog Home page
 
-![Homepage Screenshot](src/screenshots/home.jpg)
+![Homepage Screenshot](screenshots/home.jpg)
 
 ### Blog Contact Page
 
-![Post Detail Screenshot](src/screenshots/contact.jpg)
+![Contact Screenshot](screenshots/contact.jpg)
 
 ### Blog Admin Home
 
-![Post Detail Screenshot](src/screenshots/admin-home.jpg)
+![Admin Home Screenshot](screenshots/admin-home.jpg)
 
 ### Blog Admin Post
 
-![Post Detail Screenshot](src/screenshots/admin-post.jpg)
+![Admin Post Screenshot](screenshots/admin-post.jpg)
 
 ### Blog Admin User
 
-![Post Detail Screenshot](src/screenshots/admin-user.jpg)
+![Admin User Screenshot](screenshots/admin-user.jpg)
 
 ---
 
